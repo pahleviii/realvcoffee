@@ -1,0 +1,76 @@
+[
+  {
+    "id": "realv-signature",
+    "name": "RealV Signature",
+    "description": "Espresso, palm sugar, and silky oat milk.",
+    "price": 28000,
+    "category": "Signature",
+    "badge": "Our favourite",
+    "image": "https://images.unsplash.com/photo-1541167760496-1628856ab772?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": "buttercream-latte",
+    "name": "Buttercream Latte",
+    "description": "Velvety house latte with a warm vanilla finish.",
+    "price": 30000,
+    "category": "Signature",
+    "image": "https://images.unsplash.com/photo-1534778101976-62847782c213?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": "sea-salt-caramel",
+    "name": "Sea Salt Caramel",
+    "description": "Balanced caramel, espresso, and a touch of sea salt.",
+    "price": 32000,
+    "category": "Signature",
+    "badge": "Best seller",
+    "image": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": "long-black",
+    "name": "Long Black",
+    "description": "Bright, clean espresso over chilled mineral water.",
+    "price": 24000,
+    "category": "Coffee",
+    "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": "cappuccino",
+    "name": "Cappuccino",
+    "description": "A classic three-layer cup with a generous crema.",
+    "price": 28000,
+    "category": "Coffee",
+    "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": "matcha-cloud",
+    "name": "Matcha Cloud",
+    "description": "Ceremonial matcha and creamy milk, whisked to order.",
+    "price": 30000,
+    "category": "Non-coffee",
+    "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": "chocolate-sea-salt",
+    "name": "Chocolate Sea Salt",
+    "description": "Dark chocolate, milk, and a soft salty edge.",
+    "price": 30000,
+    "category": "Non-coffee",
+    "image": "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": "butter-croissant",
+    "name": "Butter Croissant",
+    "description": "Flaky French-style pastry baked every morning.",
+    "price": 22000,
+    "category": "Bites",
+    "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": "banana-bread",
+    "name": "Banana Bread",
+    "description": "Moist banana loaf with toasted almond crumble.",
+    "price": 24000,
+    "category": "Bites",
+    "image": "https://images.unsplash.com/photo-1606101273945-e9eba91c7b11?auto=format&fit=crop&w=900&q=85"
+  }
+]
