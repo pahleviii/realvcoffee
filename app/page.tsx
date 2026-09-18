@@ -15,10 +15,10 @@ export default function Home() {
               <Sparkles size={15} /> Coffee made personal
             </p>
             <h1 className="max-w-xl font-serif text-5xl font-semibold leading-[1.04] tracking-[-0.035em] text-[#2c1b13] sm:text-7xl">
-              Your daily cup, <span className="italic text-[#9a5b37]">done right.</span>
+              Ngopi Santai, <span className="italic text-[#9a5b37]">Rasa Beneran.</span>
             </h1>
             <p className="mt-7 max-w-md text-base leading-7 text-[#806f63] sm:text-lg">
-              Thoughtfully sourced beans, comforting flavours, and a little corner that feels like yours.
+              Kopi enak, suasana nyaman, tanpa drama. RealV Coffee siap nemenin harimu — pesan online, tinggal ambil di toko.
             </p>
             <div className="mt-9 flex flex-wrap items-center gap-3">
               <Link href="/menu" className="flex h-12 items-center gap-2 rounded-full bg-[#2c1b13] px-6 text-sm font-bold text-white transition hover:bg-[#6d3f27]">
@@ -75,9 +75,9 @@ export default function Home() {
       <section className="bg-[#2c1b13] text-[#fffaf4]">
         <div className="mx-auto grid max-w-6xl gap-8 px-5 py-16 sm:px-8 md:grid-cols-3 md:gap-12">
           {[
-            ["01", "Good beans", "We work with small, thoughtful producers and let their coffee shine."],
-            ["02", "Made fresh", "Every cup is brewed to order, with patience and a little bit of care."],
-            ["03", "Feel at home", "Stay for a while. There is always room for one more at our table."],
+            ["01", "Kopi yang Jujur", "Nggak neko-neko, kami fokus di rasa. Setiap cangkir dibuat dengan niat, bukan sekadar formalitas."],
+            ["02", "Dibuat Fresh", "Setiap order dibuat fresh — espresso baru, susu steamed fresh, foam dibuat khusus. Nggak ada yang premade."],
+            ["03", "Feel at Home", "Duduk santai, ngobrol lama, kerja laptop, atau cuma silent reading — semua welcome di sini. Ada tempat buat semuanya."],
           ].map(([number, title, copy]) => (
             <div key={number} className="border-t border-white/20 pt-5">
               <p className="text-xs font-bold tracking-[0.2em] text-[#d8a477]">{number}</p>

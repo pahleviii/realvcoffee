@@ -18,6 +18,7 @@ export default function Footer() {
           <div className="flex flex-col items-start gap-3 text-sm text-[#604a3a]">
             <Link href="/menu" className="hover:text-[#b77442]">Menu</Link>
             <Link href="/location" className="hover:text-[#b77442]">Location & hours</Link>
+            <Link href="/about" className="hover:text-[#b77442]">About us</Link>
             <Link href="/order" className="hover:text-[#b77442]">Your order</Link>
           </div>
         </div>

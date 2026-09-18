@@ -16,8 +16,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "RealV Coffee — Coffee, made personal",
-  description: "Artisanal coffee and warm moments in Karang Pilang, Surabaya Selatan.",
+  title: "RealV Coffee — Ngopi Santai, Rasa Beneran",
+  description: "Kopi enak, suasana nyaman, tanpa drama. Buka tiap hari 08.00–20.00 di Karang Pilang, Surabaya Selatan.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

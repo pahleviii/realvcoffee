@@ -2,7 +2,7 @@
   {
     "id": "realv-signature",
     "name": "RealV Signature",
-    "description": "Espresso, palm sugar, and silky oat milk.",
+    "description": "Espresso, palm sugar, dan silky oat milk. Kombinasi yang udah di-fine-tune berkali-kali sampai pas persis. Coba ini dulu kalau bingung.",
     "price": 28000,
     "category": "Signature",
     "badge": "Our favourite",
@@ -11,7 +11,7 @@
   {
     "id": "buttercream-latte",
     "name": "Buttercream Latte",
-    "description": "Velvety house latte with a warm vanilla finish.",
+    "description": "Velvety house latte dengan warm vanilla finish. Manis lembut, nggak bikin sakit gigi, enak banget buat yang lagi bad mood atau butuh comfort drink.",
     "price": 30000,
     "category": "Signature",
     "image": "https://images.unsplash.com/photo-1534778101976-62847782c213?auto=format&fit=crop&w=900&q=85"
@@ -19,7 +19,7 @@
   {
     "id": "sea-salt-caramel",
     "name": "Sea Salt Caramel",
-    "description": "Balanced caramel, espresso, and a touch of sea salt.",
+    "description": "Balanced caramel, espresso, dan touch of sea salt yang bikin rasa jadi lebih kompleks. Manis tapi ada sedikit salty kick — nggak terlalu manis, tapi cukup ngadik hati.",
     "price": 32000,
     "category": "Signature",
     "badge": "Best seller",
@@ -28,7 +28,7 @@
   {
     "id": "long-black",
     "name": "Long Black",
-    "description": "Bright, clean espresso over chilled mineral water.",
+    "description": "Buat kamu yang suka kopi tanpa basa-basi. Espresso yang langsung dipadu air panas—pekat, pahit yang pas, langsung nendang. Cocok buat mulai hari dengan semangat.",
     "price": 24000,
     "category": "Coffee",
     "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=900&q=85"
@@ -36,7 +36,7 @@
   {
     "id": "cappuccino",
     "name": "Cappuccino",
-    "description": "A classic three-layer cup with a generous crema.",
+    "description": "Perpaduan espresso, susu steamed, dan foam lembut di atasnya. Creamy tapi nggak eneg — pas buat yang baru mulai suka kopi susu. Sip lembut, tapi tetap kerasa kopi-nya.",
     "price": 28000,
     "category": "Coffee",
     "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?auto=format&fit=crop&w=900&q=85"
@@ -44,7 +44,7 @@
   {
     "id": "matcha-cloud",
     "name": "Matcha Cloud",
-    "description": "Ceremonial matcha and creamy milk, whisked to order.",
+    "description": "Ceremonial matcha premium dan creamy milk, whisked to order. Earthy, creamy, sedikit bitter tapi asik — buat yang lagi hindarin terlalu banyak kafein tapi tetap pengen \"ngopi\".",
     "price": 30000,
     "category": "Non-coffee",
     "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?auto=format&fit=crop&w=900&q=85"
@@ -52,7 +52,7 @@
   {
     "id": "chocolate-sea-salt",
     "name": "Chocolate Sea Salt",
-    "description": "Dark chocolate, milk, and a soft salty edge.",
+    "description": "Dark chocolate, milk, dan soft salty edge. Creamy cokelat yang bikin mood langsung membaik. Cocok buat afternoon pick-me-up atau treat after lunch.",
     "price": 30000,
     "category": "Non-coffee",
     "image": "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?auto=format&fit=crop&w=900&q=85"
@@ -60,7 +60,7 @@
   {
     "id": "butter-croissant",
     "name": "Butter Croissant",
-    "description": "Flaky French-style pastry baked every morning.",
+    "description": "Renyah di luar, lembut di dalam, wangi mentega yang bikin susah nolak. Temen pas buat kopi pagi atau afternoon tea session.",
     "price": 22000,
     "category": "Bites",
     "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=900&q=85"
@@ -68,7 +68,7 @@
   {
     "id": "banana-bread",
     "name": "Banana Bread",
-    "description": "Moist banana loaf with toasted almond crumble.",
+    "description": "Lembut, manis alami dari pisang, toasted almond crumble di atasnya. Pas banget dinikmati bareng espresso atau cappuccino — balance antara manis & sedikit bitter.",
     "price": 24000,
     "category": "Bites",
     "image": "https://images.unsplash.com/photo-1606101273945-e9eba91c7b11?auto=format&fit=crop&w=900&q=85"

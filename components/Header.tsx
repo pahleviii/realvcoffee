@@ -10,6 +10,7 @@ const links = [
   { href: "/", label: "Home" },
   { href: "/menu", label: "Our menu" },
   { href: "/location", label: "Visit us" },
+  { href: "/about", label: "About" },
 ];
 
 export default function Header() {
@@ -59,8 +60,8 @@ export default function Header() {
           </Link>
           <button
             type="button"
-            className="flex h-11 w-11 items-center justify-center rounded-full text-[#2c1b13] md:hidden"
-            aria-label={open ? "Close menu" : "Open menu"}
+            className="flex h-11 w-11 items-center justify-center rounded-full text-[#2c1b13] transition-colors hover:bg-[#f0e2d4] md:hidden"
+            aria-label={open ? "Tutup menu" : "Buka menu"}
             onClick={() => setOpen((value) => !value)}
           >
             {open ? <X size={21} /> : <Menu size={21} />}
@@ -68,15 +69,15 @@ export default function Header() {
         </div>
       </div>
       {open && (
-        <nav className="border-t border-[#eadfd2] px-5 py-4 md:hidden" aria-label="Mobile navigation">
+        <nav className="border-t border-[#eadfd2] px-5 py-4 md:hidden animate-in fade-in duration-200" aria-label="Mobile navigation">
           <div className="mx-auto flex max-w-6xl flex-col gap-1">
             {links.map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
                 onClick={() => setOpen(false)}
-                className={`rounded-xl px-3 py-3 text-sm font-semibold ${
-                  pathname === link.href ? "bg-[#f0e2d4] text-[#6d3f27]" : "text-[#806f63]"
+                className={`rounded-xl px-3 py-3 text-sm font-semibold transition-colors ${
+                  pathname === link.href ? "bg-[#f0e2d4] text-[#6d3f27]" : "text-[#806f63] hover:text-[#2c1b13]"
                 }`}
               >
                 {link.label}
